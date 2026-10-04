@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "0.8.0",
-  "publishedAt": "2026-10-04T13:29:20Z",
+  "version": "0.8.1",
+  "publishedAt": "2026-10-04T15:11:53Z",
   "minimumUpgradable": "0.1.0",
-  "notes": "小蘑菇定制版首个发布基线（二开功能集成 + 自建更新通道）：\n\n- 新增「日报」页签：今日/本周/本月/上月/本年 查看已完成待办，一键生成日/周/月/年报（复制或存速记）\n- AI 对话「对话即生成」：说\"帮我加个待办/记个速记\"，回复下方一键生成待办/速记；AI 回复与整段对话均可存速记\n- 品牌更名「小蘑菇」，支持自建更新源推送新版本（官方更新通道在定制版中禁用，防覆盖）",
+  "notes": "# v0.8.1 发布说明\n\n**测试发布**\n\n- 本次为自建更新通道联调版本：验证客户版启动后能从 GitHub Pages 更新源收到「发现新版本」提醒并成功升级\n- 功能与 v0.8.0 一致，无业务变更",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://aiyou1934.github.io/xiaomogu-dist/win-x64/x-hub-0.8.0-win-x64.zip",
-      "portableUrl": "https://aiyou1934.github.io/xiaomogu-dist/win-x64/x-hub-0.8.0-win-x64-portable.zip",
-      "sha256": "9d6ab60feff273059e3dc7c528fe07d35309107fb4b9074690d8762c894e3a4d",
-      "portableSha256": "9479d6aeae73f48033cedd031058875afeb0ed28366fbca5e0a1f54b9969243f",
-      "size": 5655360,
-      "portableSize": 5655452
+      "url": "https://aiyou1934.github.io/xiaomogu-dist/win-x64/x-hub-0.8.1-win-x64.zip",
+      "portableUrl": "https://aiyou1934.github.io/xiaomogu-dist/win-x64/x-hub-0.8.1-win-x64-portable.zip",
+      "sha256": "64d1d94174b276b4d7464d0d38879ac4cfd4e75b4f03190412ce4c4edc88479c",
+      "portableSha256": "62e0479fc2cd8da76a44855269c2e97e8a028e4fa683dc6e584e7ed05ec56505",
+      "size": 5663938,
+      "portableSize": 5664030
     }
   }
 }
