@@ -1,0 +1,17 @@
+﻿{
+    "schemaVersion":  1,
+    "version":  "0.8.2",
+    "publishedAt":  "2026-10-05T01:57:52Z",
+    "minimumUpgradable":  "0.1.0",
+    "notes":  "# v0.8.2 鍙戝竷璇存槑\n\n鍚屾涓婃父 v0.7.6 鏇存柊 + 灏忚槕鑿囧畾鍒剁増绋冲畾鍖栵細\n\n- 鏃ュ巻淇锛氬伐浣滃彴绱у噾缃戞牸涓嬫棩鏈熶笉鍐嶈瑁佸垏\n- 閫熻揪銆屽叏閮ㄣ€嶉〉鏀寔鑷畾涔夊垎鍖猴紙鎷栨嫿鎴愮粍銆佸彸閿Щ鍔ㄣ€佸垹闄ゅ彲鎾ら攢锛?- 宸ヤ綔鍙板竷灞€鍙€屽瓨涓洪粯璁ゃ€嶏紝缂栬緫鍣?璁剧疆閲屼竴閿仮澶?- 楂樺垎灞忓浘鏍囧崌绾э細鍚姩鍚庡悗鍙拌嚜鍔ㄦ妸鏃?32脳32 鍥炬爣缂撳瓨閲嶆彁涓?256脳256锛屾棤闇€鎵嬪姩鎿嶄綔",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://aiyou1934.github.io/xiaomogu-dist/win-x64/x-hub-0.8.2-win-x64.zip",
+                                             "portableUrl":  "https://aiyou1934.github.io/xiaomogu-dist/win-x64/x-hub-0.8.2-win-x64-portable.zip",
+                                             "sha256":  "8900e80a129b6eb24f755fab09fb023aac9daf2c46caeda5f0e0d0053ba3a852",
+                                             "portableSha256":  "0b0d5511da50abb921b6e535cfeda319cf9c3978ae449443555343cb2d665d85",
+                                             "size":  5698836,
+                                             "portableSize":  5698928
+                                         }
+                  }
+}

@@ -1,0 +1,17 @@
+﻿{
+    "schemaVersion":  1,
+    "version":  "0.8.1",
+    "publishedAt":  "2026-10-04T15:11:53Z",
+    "minimumUpgradable":  "0.1.0",
+    "notes":  "",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://aiyou1934.github.io/xiaomogu-dist/win-x64/x-hub-0.8.1-win-x64.zip",
+                                             "portableUrl":  "https://aiyou1934.github.io/xiaomogu-dist/win-x64/x-hub-0.8.1-win-x64-portable.zip",
+                                             "sha256":  "64d1d94174b276b4d7464d0d38879ac4cfd4e75b4f03190412ce4c4edc88479c",
+                                             "portableSha256":  "62e0479fc2cd8da76a44855269c2e97e8a028e4fa683dc6e584e7ed05ec56505",
+                                             "size":  5663938,
+                                             "portableSize":  5664030
+                                         }
+                  }
+}
